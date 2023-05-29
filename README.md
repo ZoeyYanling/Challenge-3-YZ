@@ -1,1 +1,1 @@
-# Challenge-3-YZ
+This is a random password generator.
